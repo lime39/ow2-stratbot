@@ -1,1 +1,27 @@
-/* This file will store all the strats along with various categories */
+{
+    "general": [
+        "Everyone must swap heroes after each team fight.",
+        "No talking in voice or text for the entire match. Communicate only with pings/emotes.",
+        "Everyone must ult in the same fight no matter what.",
+        "Talk only in voice lines.",
+        "The tank must go solo Rein, rest of the team protects each other.",
+        "Supports are not allowed to heal.",
+        "Set your game to the lowest possible resolution.",
+        "The goal is not to win, it's to get Play of the Game. Nothing else matters.",
+        "Whenever you get an elimination, you must stand still for 3 seconds",
+        "Nobody is allowed to use their primary fire.",
+        "Disable your hud for this match (ALT + Z).",
+        "Each player must mirror the enemy across from them. If the enemy swaps, you swap.",
+        "Play the Speed Demons Comp: Winston, Genji, Tracer, Lucio, Juno.",
+        "Play the Girlie Squad Comp: D.VA, Ashe, Symmetra, Mercy, Kiriko.",
+        "Play the Classic Overwatch Comp: Reinhardt, Soldier: 76, Torbjorn, Mercy, Ana.",
+        "Everyone chooses one enemy and targets them for the whole match. Spawncamping is encouraged.",
+        "One person is randomly chosen to be the president, the others must protect them at all costs.",
+        "Play the Brick Wall Comp: Sigma, Bastion, Mei, Baptiste, Zenyatta.",
+        "Play the Turret Camper Comp: Rammattra, Torbjorn, Symmetra, Illari, Brigitte.",
+        "Play the Bloom & Doom Comp: Mauga, Echo, Sombra, Moira, Lifeweaver.",
+        "Flip a coin. HEADS: you play your favourite character. TAILS: you play your least favourite character."
+    ]
+   
+
+}

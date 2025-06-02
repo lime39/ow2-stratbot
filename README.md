@@ -9,7 +9,5 @@ The bot supports general-purpose strategies as well as role queue–friendly att
 ## Features
 
 - `!strat` — Returns a randomized general strategy, suitable for any match or map
-- `!strat attack` / `!strat defense` — Generates side-specific strategies optimized for role queue
-- `!addstrat [category] [strategy]` — Allows users to contribute their own strategies to existing categories
-- `!addcategory [category_name]` — Enables the creation of new strategy categories at runtime
+- `!addstrat [strategy]` — Allows users to contribute their own strategies to existing categories
 - Persistent strategy storage using JSON — all custom strategies and categories are saved locally
