@@ -14,12 +14,22 @@ intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
 
-# Example strat pool
-strats = [
-    "Strat 1"
-    "Strat 2"
-    "Strat 3"
-]
+
+# Loading strategies from the JSON file.
+def load_strats():
+    if not os.path.exists(STRAT_FILE):
+        with open(STRAT_FILE, "w") as f:
+            json.dump({"general: []"}, f, indent=2)
+    with open(STRAT_FILE, "r") as f:
+        return json.load(f)
+    
+# Saving straegies back to the JSON file.
+def save_strats(data):
+    with open(STRAT_FILE, "w") as f:
+        json.dump(data, f, indent=2)
+
+strats = load_strats()
+
 
 @client.event
 async def on_ready():

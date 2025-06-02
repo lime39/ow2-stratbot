@@ -3,7 +3,7 @@
         "Everyone must swap heroes after each team fight.",
         "No talking in voice or text for the entire match. Communicate only with pings/emotes.",
         "Everyone must ult in the same fight no matter what.",
-        "Talk only in voice lines.",
+        "Talk only in voice lines IRL.",
         "The tank must go solo Rein, rest of the team protects each other.",
         "Supports are not allowed to heal.",
         "Set your game to the lowest possible resolution.",
@@ -15,8 +15,8 @@
         "Play the Speed Demons Comp: Winston, Genji, Tracer, Lucio, Juno.",
         "Play the Girlie Squad Comp: D.VA, Ashe, Symmetra, Mercy, Kiriko.",
         "Play the Guy Squad Comp: Hazard, Cassidy, Reaper, Lifeweaver, Lucio.",
-        "Play the Classic Overwatch Comp: Reinhardt, Soldier: 76, Torbjorn, Mercy, Ana.",
-        "Everyone chooses one enemy and targets them for the whole match. Spawncamping is encouraged.",
+        "Play the Classic Overwatch Comp: Reinhardt, Soldier: 76, Tracer, Mercy, Ana.",
+        "Your team chooses one enemy and targets them for the whole match. Spawncamping is encouraged.",
         "One person is randomly chosen to be the president, the others must protect them at all costs.",
         "Play the Brick Wall Comp: Sigma, Bastion, Mei, Baptiste, Zenyatta.",
         "Play the Turret Camper Comp: Rammattra, Torbjorn, Symmetra, Illari, Brigitte.",
@@ -32,7 +32,11 @@
         "Melee attacks or abilities only. No shooting allowed.",
         "Pick flying heroes only. Fly like a bird and stay airborne as much as you can",
         "Play as Talon members or ex-agents.",
-        "No movement abilities allowed. Walk it out the old-fashioned way."
+        "No movement abilities allowed. Walk it out the old-fashioned way.",
+        "Change the colorblind filter to Tritanopia. Embrace the vision.",
+        "Use a Random Number Generator to pick your character. First one is on the top left of the top row.",
+        "Supports cannot do damage. Live the healbot lifestyle."
+
     ]
    
 
