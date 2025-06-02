@@ -2,9 +2,13 @@ import discord
 import json
 import random
 import os
-import dotenv
+from dotenv import load_dotenv
 
-TOKEN = 'TOKEN'
+# Load environment variables.
+load_dotenv()
+TOKEN = os.getenv("TOKEN")
+
+STRAT_FILE = "strats.json"
 
 intents = discord.Intents.default()
 intents.message_content = True
