@@ -10,7 +10,6 @@
     "The goal is not to win, it's to get Play of the Game. Nothing else matters.",
     "Whenever you get an elimination, you must stand still for 3 seconds",
     "Nobody is allowed to use their primary fire.",
-    "Disable your hud for this match (ALT + Z).",
     "Each player must mirror the enemy across from them. If the enemy swaps, you swap.",
     "Play the Speed Demons Comp: Winston, Genji, Tracer, Lucio, Juno.",
     "Play the Girlie Squad Comp: D.VA, Ashe, Symmetra, Mercy, Kiriko.",
@@ -35,6 +34,13 @@
     "No movement abilities allowed. Walk it out the old-fashioned way.",
     "Change the colorblind filter to Tritanopia. Embrace the vision.",
     "Use a Random Number Generator to pick your character. First one is on the top left of the top row.",
-    "Supports cannot do damage. Live the healbot lifestyle."
+    "Supports cannot do damage. Live the healbot lifestyle.",
+    "Choose perks you'd never normally use. Embrace the new playstyle.",
+    "The moment your ult is ready, you must use it. No saving, no second thoughts.",
+    "You must crouch walk the entire match. No walking or sprinting, just slow and steady.",
+    "Pick the hero whose birthday is closest to yours. Before or after, it does not matter!",
+    "Only Sombra, Solider, and Hog can heal",
+    "Disable your hud for this match (CTRL + Z/ALT + Z/CTRL + ALT + Z).",
+    "Set your frame rate cap to a random number between 30 and your refresh rate. Use a number generator to decide!"
   ]
 }
