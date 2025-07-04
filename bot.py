@@ -3,7 +3,6 @@ import json
 import random
 import os
 from dotenv import load_dotenv
-from keep_alive import keep_alive
 
 # Load environment variables.
 load_dotenv()
@@ -66,8 +65,5 @@ async def on_message(message):
         strats["general"].append(new_strat)
         save_strats(strats)
         await message.channel.send(f"🗿 Strategy added by {message.author.display_name}!")
-
-# Keep the bot alive using a web server
-keep_alive()
 
 client.run(TOKEN)
