@@ -31,7 +31,6 @@
     "Melee attacks or abilities only. No shooting allowed.",
     "Pick flying heroes only. Fly like a bird and stay airborne as much as you can",
     "Play as Talon members or ex-agents.",
-    "No movement abilities allowed. Walk it out the old-fashioned way.",
     "Change the colorblind filter to Tritanopia. Embrace the vision.",
     "Use a Random Number Generator to pick your character. First one is on the top left of the top row.",
     "Supports cannot do damage. Live the healbot lifestyle.",
@@ -39,8 +38,15 @@
     "The moment your ult is ready, you must use it. No saving, no second thoughts.",
     "You must crouch walk the entire match. No walking or sprinting, just slow and steady.",
     "Pick the hero whose birthday is closest to yours. Before or after, it does not matter!",
-    "Only Sombra, Solider, and Hog can heal",
     "Disable your hud for this match (CTRL + Z/ALT + Z/CTRL + ALT + Z).",
-    "Set your frame rate cap to a random number between 30 and your refresh rate. Use a number generator to decide!"
+    "Set your frame rate cap to a random number between 30 and your refresh rate. Use a number generator to decide!",
+    "Play with inverted mouse controls for the entire match.",
+    "No abilities allowed, only primary fire and movement.",
+    "The team must move in a conga line formation at all times.",
+    "No jumping allowed. Stay grounded like a true professional.",
+    "Play the Flying Circus Comp: Echo, Pharah, Mercy, Lucio, Winston.",
+    "Set your sensitivity to double of what you're used to.",
+    "Change your skin to a random color based on a wheel.",
+    "Emote after every elimination."
   ]
 }
